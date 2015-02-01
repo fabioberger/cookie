@@ -11,8 +11,6 @@ var (
 	doc = dom.GetWindow().Document().(dom.HTMLDocument)
 )
 
-//Mon, 02 Jan 2006 15:04:05 GMT
-
 // Get returns a given cookie by name. If the cookie is not set, ok will be
 // set to false
 func Get(name string) (value string, ok bool) {
