@@ -1,4 +1,4 @@
-[![GoDoc](http://godoc.org/github.com/fabioberger/cookie?status.svg)](https://godoc.org/github.com/fabioberger/coinbase-go)
+[![GoDoc](http://godoc.org/github.com/fabioberger/cookie?status.svg)](https://godoc.org/github.com/fabioberger/cookie)
 
 
 Gopherjs Cookie Library
